@@ -1,2 +1,4 @@
-cnj.message = Hello My test!!!
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
       
